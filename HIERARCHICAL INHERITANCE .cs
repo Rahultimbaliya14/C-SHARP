@@ -1,8 +1,5 @@
 //CREATED BY RAHUL TIMBALIYA
 using System;
-using System.IO;
-using System.Linq;
-using System.Collections.Generic;
 
 	class Base
 	{
@@ -44,6 +41,7 @@ using System.Collections.Generic;
      Console.WriteLine();
      Derived3 d3=new Derived3();
      Console.WriteLine();
+     Console.ReadLine();
      
 	
 	}

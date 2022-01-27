@@ -1,7 +1,4 @@
 using System;
-using System.IO;
-using System.Linq;
-using System.Collections.Generic;
 
 	class University
 	{
@@ -49,12 +46,13 @@ using System.Collections.Generic;
 	class Hybrid
 	{
 
-    public static void Main(String []args)
-    {
-       Studant1 s1=new Studant1();
-       Console.WriteLine();
-       Studant2 s2=new Studant2();
-       Console.WriteLine();
-       Studant3 s3=new Studant3();
-	}
-}
+           public static void Main(String []args)
+           {
+                Studant1 s1=new Studant1();
+                Console.WriteLine();
+                Studant2 s2=new Studant2();
+                Console.WriteLine();
+                Studant3 s3=new Studant3();
+	   }
+        }
+ 

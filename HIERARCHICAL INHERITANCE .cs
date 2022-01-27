@@ -22,7 +22,7 @@ using System;
 			Console.WriteLine("DERIVED2 CLASS CONSTRUCTOR");
 		}
 	}
-   class Derived3 :Base
+        class Derived3 :Base
 	{
 		public Derived3()
 		{
@@ -33,16 +33,14 @@ using System;
 	class demo
 	{
 
-    public static void Main(String []args)
-    {
-     Derived1 d1=new Derived1();
-     Console.WriteLine();
-     Derived2 d2=new Derived2();
-     Console.WriteLine();
-     Derived3 d3=new Derived3();
-     Console.WriteLine();
-     Console.ReadLine();
-     
-	
-	}
-}
+           public static void Main(String []args)
+           {
+               Derived1 d1=new Derived1();
+               Console.WriteLine();
+               Derived2 d2=new Derived2();
+               Console.WriteLine();
+               Derived3 d3=new Derived3();
+               Console.WriteLine();
+               Console.ReadLine();
+	   }
+        }

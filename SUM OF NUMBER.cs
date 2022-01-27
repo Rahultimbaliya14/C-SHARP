@@ -22,6 +22,7 @@ class SUMOFNUMBER
    	int sum=sum(n);
    	Console.WriteLine();
    	Console.WriteLine("SUM="+sum);
+        Console.ReadLine();
    	
    }
    

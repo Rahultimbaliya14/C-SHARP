@@ -1,8 +1,9 @@
+//CREATED BY RAHUL TIMBALIYA 
 using System;
 
 class SUMOFNUMBER
 {
-	static int cal(int n)
+	static int sum(int n)
 	{
 		int last,sum=0;
 		while(n !=0)
@@ -18,7 +19,7 @@ class SUMOFNUMBER
    	int n;
    	Console.WriteLine("Enter A Number");
    	n=Convert.ToInt32(Console.ReadLine());
-   	int sum=cal(n);
+   	int sum=sum(n);
    	Console.WriteLine();
    	Console.WriteLine("SUM="+sum);
    	

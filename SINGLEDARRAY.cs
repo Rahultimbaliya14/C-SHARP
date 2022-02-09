@@ -1,9 +1,10 @@
+//CREATED BY RAHUL TIMBALIYA 
 using System;
 
 class SINGLEDARRAY
 {
-	public static void Main(String[] args)
-	{
+    public static void Main(String[] args)
+    {
        int n;
        Console.WriteLine("Enter How Many Element");
        n=Convert.ToInt32(Console.ReadLine());
@@ -19,7 +20,7 @@ class SINGLEDARRAY
        	Console.WriteLine(+i+" Element is = "+arr[i]);
        }
        Console.ReadLine();
-	}
+     }
 
 
 }

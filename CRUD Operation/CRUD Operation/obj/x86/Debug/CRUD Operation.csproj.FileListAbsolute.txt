@@ -1,0 +1,5 @@
+R:\C#\CRUD Operation\CRUD Operation\bin\Debug\CRUD Operation.exe
+R:\C#\CRUD Operation\CRUD Operation\bin\Debug\CRUD Operation.pdb
+R:\C#\CRUD Operation\CRUD Operation\obj\x86\Debug\CRUD Operation.exe
+R:\C#\CRUD Operation\CRUD Operation\obj\x86\Debug\CRUD Operation.pdb
+R:\C#\CRUD Operation\CRUD Operation\obj\x86\Debug\CRUD Operation.csprojResolveAssemblyReference.cache
